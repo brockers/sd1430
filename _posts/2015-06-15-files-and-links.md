@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Files and Links"
+title: "Files, Topics, and Links"
 date: 2015-06-15 16:10:00
 categories: unit01
 ---
 
+Discussion will cover what software development is, and how software works.
+Additionally we will discuss different kinds of software languages and 
+their place in computing.
 
-* [Class Syllabus](https://transfer.sh/PefDs/pt1420-29-syllabus.pdf)
-* [Class Software](https://transfer.sh/A0OpD/ninite-pt1430-installer.exe)
-* [Github](htttps://www.github.com)
-* [Github Windows Client](https://transfer.sh/1gZYfw/githubsetup.exe)
+### Topics
 
 1.  Describe the role of software for computers.
 2.  Identify the hardware associated with a computer.
@@ -21,3 +21,11 @@ categories: unit01
 8.  Determine program input, processing, and output stages.
 9.  Create the necessary flowcharts to describe a program’s structure.
 10. Use pseudocode to define a program’s structure.
+
+### Tools & Links
+
+* [Class Syllabus](https://transfer.sh/PefDs/pt1420-29-syllabus.pdf)
+* [Class Software](https://transfer.sh/A0OpD/ninite-pt1430-installer.exe)
+* [Github](htttps://www.github.com)
+* [Github Windows Client](https://transfer.sh/1gZYfw/githubsetup.exe)
+
