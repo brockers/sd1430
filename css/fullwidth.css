@@ -1,0 +1,99 @@
+---
+# Custom CSS needs frontmater to get jeykll to process.  Tripple dashes are enough
+---
+body {
+    margin-top: 50px; 
+}
+
+header {
+}
+
+img {
+     max-width: 100%;
+}
+
+.header-title {
+	text-align: right;
+	padding-right: 30px;
+	font-size: 35px;
+	font-weight: bold;
+	color: #FFF;
+}
+
+.image-bg-fluid-height,
+.image-bg-fixed-height {
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.image-bg-fluid-height {
+	background: url('{{ site.baseurl }}/images/background.jpg') no-repeat center center scroll;
+  padding: 180px 0px 10px 0px;
+	width: 100%;
+	/* position: fixed; */
+	/* height: 307px; */
+}
+
+.sticky {
+  /* height: 122px; */
+	width: 100%;
+	padding: 10px 0px 10px 0px;
+	transition: all 0.4s ease;
+}
+
+/* .page-sticky { */
+/* 	padding-top: 149px; */
+/* 	transition: all 0.4s ease; */
+/* } */
+
+.img-center {
+	margin: 0 auto;
+}
+
+section {
+    padding: 75px 0;
+}
+
+.section-heading {
+    margin: 30px 0;
+    font-size: 4em;
+}
+
+.section-lead {
+    margin: 30px 0;
+}
+
+.section-paragraph {
+    margin: 30px 0;
+}
+
+.continue-link {
+	font-size: 14px;
+	display: inline;
+}
+
+footer {
+    margin: 0px;
+}
+
+.post-title {
+	padding-top: 2px;
+}
+
+.category {
+	text-transform: capitalize;
+}
+
+@media(max-width:768px) {
+    section {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .section-heading {
+        font-size: 2em;
+    }
+}
