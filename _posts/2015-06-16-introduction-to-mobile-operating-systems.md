@@ -5,33 +5,38 @@ date: 2015-06-16 17:00:00
 categories: unit01
 ---
 
-Here are some initial things to think about related to programming.
+Three major mobile operating system platforms
 
-* Objects
-* Operators
-* Expressions
+* Linux & Android
+* BSD & iOS
+* Windows & Windows Phone 
 
-Along with the different "types" of programming languages.
+Other notible platforms
 
-* Machine Code
-* Assembly Code
-* Compiled Languages
-* Bytecode Languages
-* Interpreted Languages
+* Ubuntu Phone
+* Firefox OS
+* Amazon Fire Phone
+* Blackberry 10 OS
 
-Among the most popular programming languages are:
+Primary mobile platform programming languages.
 
-* C, C++, Objective C
-* Java, C#
-* PHP, Perl, Python, Ruby
-* JavaScript
-* SQL
-* Visual Basic, ASP.Net
+* Android
+	* Java
+	* JavaScript
+* iOS
+	* Objective C
+	* JavaScript
+* Windows Phone
+	* C#
+	* JavaScript
 
-Finally, here is a list of programming concepts you **MUST** know:
+Mobile Platform Technologies
 
-* Syntax
-* Variables
-* Data Structures
-* Control Structures
-* Functions & Methods
+* Visual Studio Mobile SDK
+* Eclipse ADT Plugin
+* Android Studio
+* Xcode
+* PhoneGap / Cordova 
+* Windows App Studio
+* Xamarin Studio
+
