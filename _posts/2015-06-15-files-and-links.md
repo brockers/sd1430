@@ -9,6 +9,8 @@ Discussion will cover what software development is, and how software works.
 Additionally we will discuss different kinds of software languages and 
 their place in computing.
 
+Bobby was here
+
 ### Topics
 
 1.  Describe the role of software for computers.
