@@ -18,3 +18,8 @@ Overview of some of the topics we discussed.  Please review at your leisure.
 * [https://www.dreamspark.com/](Microsoft Dreamspark) Download and install the current version of Visual Studio.
 * [http://phonegap.com/blog/2015/03/02/phonegap-app-desktop-0-1-2/ ](PhoneGap for Windows) Beta version.  Haven't tried it yet.
 * [https://www.virtualbox.org/wiki/Downloads](VirtualBox) An Open Source (and more functional) version of VMWare Player.
+
+## Other Discussion Topics
+* Working at Dell
+* Android vs iPhone Develoopment
+* Why I hate being a Project Manager
