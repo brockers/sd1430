@@ -16,6 +16,6 @@ Let talk about Android, Linux, and Unix.
 * Responsive mode development
 
 ## Additional Software
-* [http://getbootstrap.com/](Bootstrap mobile first CSS Styles)
-* [https://jquery.com/](jQuery JavaScript Library)
-* [https://www.virtualbox.org/wiki/Downloads](VirtualBox VM)
+* [Bootstrap mobile first CSS Styles](http://getbootstrap.com/)
+* [jQuery JavaScript Library](https://jquery.com/)
+* [VirtualBox VM](https://www.virtualbox.org/wiki/Downloads)

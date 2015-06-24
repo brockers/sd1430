@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes from day one"
+title: "Notes from Day One"
 date: 2015-06-17 16:10:00
 categories: unit01
 ---
@@ -15,9 +15,11 @@ Overview of some of the topics we discussed.  Please review at your leisure.
 
 ## Additional software for class
 
-* [https://www.dreamspark.com/](Microsoft Dreamspark) Download and install the current version of Visual Studio.
-* [http://phonegap.com/blog/2015/03/02/phonegap-app-desktop-0-1-2/ ](PhoneGap for Windows) Beta version.  Haven't tried it yet.
-* [https://www.virtualbox.org/wiki/Downloads](VirtualBox) An Open Source (and more functional) version of VMWare Player.
+* [Microsoft Dreamspark](https://www.dreamspark.com/) Download and install the current version of Visual Studio.
+* [PhoneGap for Windows](http://phonegap.com/blog/2015/03/02/phonegap-app-desktop-0-1-2/ ) Beta version.  Haven't tried it yet.
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads) An Open Source (and more functional) version of VMWare Player.
+* [jQuery JavaScript Library](https://jquery.com/)
+* [Bootstrap CSS Mobile First Library](http://getbootstrap.com/)
 
 ## Other Discussion Topics
 * Working at Dell
