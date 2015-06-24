@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Week Two Agenda"
+title: "Unix, Linux, & Android"
 date: 2015-06-23 16:10:00
 categories: unit02
 ---
 
-Let talk about Android, Linux, and Unix.  
+Let talk about Android, Linux, and Unix. What is Androids history and how did it become the worlds most dominate mobile platform.
 
 ## Class Agenda
 
+* Unix, a history
 * Install Linux Virtual Machine
 * Install Android Studio and make sure it runs Virtual Machines
 * Developers tools Chrome
