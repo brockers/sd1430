@@ -22,6 +22,7 @@ Overview of some of the topics we discussed.  Please review at your leisure.
 * [Bootstrap CSS Mobile First Library](http://getbootstrap.com/)
 
 ## Other Discussion Topics
+
 * Working at Dell
 * Android vs iPhone Develoopment
 * Why I hate being a Project Manager
